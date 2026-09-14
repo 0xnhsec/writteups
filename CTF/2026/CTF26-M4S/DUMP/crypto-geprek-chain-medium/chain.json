@@ -1,0 +1,178 @@
+[
+  {
+    "index": 0,
+    "timestamp": 1735689600,
+    "transactions": [
+      {
+        "from": "SYSTEM",
+        "to": "genesis",
+        "amount": 0,
+        "memo": "Selamat datang di GeprekChain!"
+      },
+      {
+        "from": "SYSTEM",
+        "to": "peserta",
+        "amount": 0,
+        "memo": "Petunjuk: tiap blok dikunci oleh masa lalunya."
+      }
+    ],
+    "data": "UkVETElNSVR7aW5pX3A0bHN1X2o0bmc0bl9wM3JjNHk0X2czbmVzaXN9",
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "nonce": 87218,
+    "hash": "000086adef471d5d98577c934036971df6f64589d831965eb09fdb208e76be26"
+  },
+  {
+    "index": 1,
+    "timestamp": 1735690200,
+    "transactions": [
+      {
+        "from": "bu_rt",
+        "to": "gojek_driver",
+        "amount": 2674,
+        "memo": "transfer harian"
+      },
+      {
+        "from": "SYSTEM",
+        "to": "bu_rt",
+        "amount": 50,
+        "memo": "reward mining"
+      }
+    ],
+    "data": "UkXC4aY=",
+    "previous_hash": "000086adef471d5d98577c934036971df6f64589d831965eb09fdb208e76be26",
+    "nonce": 42379,
+    "hash": "00002a515a58fcaa20c648489402991003859afd2e7bc118daa7e3f5cc8cc123"
+  },
+  {
+    "index": 2,
+    "timestamp": 1735690800,
+    "transactions": [
+      {
+        "from": "sambel_matah",
+        "to": "bos_besar",
+        "amount": 4011,
+        "memo": "transfer harian"
+      },
+      {
+        "from": "SYSTEM",
+        "to": "sambel_matah",
+        "amount": 50,
+        "memo": "reward mining"
+      }
+    ],
+    "data": "TUl+KhY=",
+    "previous_hash": "00002a515a58fcaa20c648489402991003859afd2e7bc118daa7e3f5cc8cc123",
+    "nonce": 7701,
+    "hash": "0000dc3fa2bbc1311f61fd9b2e0c5779760d023bcf14787a21a342cbb7ab32d6"
+  },
+  {
+    "index": 3,
+    "timestamp": 1735691400,
+    "transactions": [
+      {
+        "from": "warteg_69",
+        "to": "sambel_matah",
+        "amount": 5348,
+        "memo": "transfer harian"
+      },
+      {
+        "from": "SYSTEM",
+        "to": "warteg_69",
+        "amount": 50,
+        "memo": "reward mining"
+      }
+    ],
+    "data": "NGiDfe4=",
+    "previous_hash": "0000dc3fa2bbc1311f61fd9b2e0c5779760d023bcf14787a21a342cbb7ab32d6",
+    "nonce": 174823,
+    "hash": "0000348fc584365706b54c99a97e0e8057205a4cf47f3b329cb12fb8400961f4"
+  },
+  {
+    "index": 4,
+    "timestamp": 1735692000,
+    "transactions": [
+      {
+        "from": "gojek_driver",
+        "to": "es_teh",
+        "amount": 6685,
+        "memo": "transfer harian"
+      },
+      {
+        "from": "SYSTEM",
+        "to": "gojek_driver",
+        "amount": 50,
+        "memo": "reward mining"
+      }
+    ],
+    "data": "MENfzK0=",
+    "previous_hash": "0000348fc584365706b54c99a97e0e8057205a4cf47f3b329cb12fb8400961f4",
+    "nonce": 2344,
+    "hash": "0000e65729d1ba08fdd54299c55ad4af9a6e7985ec7fb0a2e0297c43a11f4ce0"
+  },
+  {
+    "index": 5,
+    "timestamp": 1735692600,
+    "transactions": [
+      {
+        "from": "es_teh",
+        "to": "ayam_geprek",
+        "amount": 8022,
+        "memo": "transfer harian"
+      },
+      {
+        "from": "SYSTEM",
+        "to": "es_teh",
+        "amount": 50,
+        "memo": "reward mining"
+      }
+    ],
+    "data": "NGmoCGs=",
+    "previous_hash": "0000e65729d1ba08fdd54299c55ad4af9a6e7985ec7fb0a2e0297c43a11f4ce0",
+    "nonce": 143558,
+    "hash": "0000661fa226f28c200bb5bd536d1f6102dcaac7ac29ffb23d1fbcdf2918bafc"
+  },
+  {
+    "index": 6,
+    "timestamp": 1735693200,
+    "transactions": [
+      {
+        "from": "kasir_01",
+        "to": "warteg_69",
+        "amount": 9359,
+        "memo": "transfer harian"
+      },
+      {
+        "from": "SYSTEM",
+        "to": "kasir_01",
+        "amount": 50,
+        "memo": "reward mining"
+      }
+    ],
+    "data": "cjAxQPE=",
+    "previous_hash": "0000661fa226f28c200bb5bd536d1f6102dcaac7ac29ffb23d1fbcdf2918bafc",
+    "nonce": 36210,
+    "hash": "0000a00e0241eca9fc923a39d3670ae3ebeee037e47f30ce5274e0804792cf00"
+  },
+  {
+    "index": 7,
+    "timestamp": 1735693800,
+    "transactions": [
+      {
+        "from": "bos_besar",
+        "to": "kasir_01",
+        "amount": 697,
+        "memo": "transfer harian"
+      },
+      {
+        "from": "SYSTEM",
+        "to": "bos_besar",
+        "amount": 50,
+        "memo": "reward mining"
+      }
+    ],
+    "data": "MVX1cw==",
+    "previous_hash": "0000a00e0241eca9fc923a39d3670ae3ebeee037e47f30ce5274e0804792cf00",
+    "nonce": 52675,
+    "hash": "00002990e974fa04f41f75340f22cf2cdf84e6affb53d7188cac9f00684547b2"
+  }
+]
